@@ -153,4 +153,8 @@ body, html{
 padding-bottom: 50px;
 }
 
-
+.imagecircle {
+  width:250px;
+  height:250px;
+  radius:50%
+}
